@@ -1,1 +1,1 @@
-# Site-Template
+## Site-Template - шаблон одностраничного сайта
